@@ -2,6 +2,6 @@
 # 低温段
 
 
-* halo
+* halo |
 * 请 |
 * i love :coffee,   :dancer:. |
