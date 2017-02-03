@@ -4,4 +4,4 @@
 
 * halo
 * 请 |
-* i love :coffee:,   :dancer:. |
+* i love :coffee,   :dancer:. |
