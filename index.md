@@ -13,6 +13,6 @@
 
 * 主页
 * 技术
-  * java
-  * php
+ * java
+ * php
   
